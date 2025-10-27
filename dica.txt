@@ -1,2 +1,3 @@
-A chave do joaquim está corrompida!
+Dica para a APS: revise como cifrar mensagens usando chaves públicas e como decifrar mensagens usando chaves privadas
+
 
